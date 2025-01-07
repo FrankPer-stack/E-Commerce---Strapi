@@ -49,8 +49,7 @@ The Strapi server is used to:
 - **Database**: SQLite (default), PostgreSQL, or any other compatible database.
 
 ## Contributors
-- [Your Name](https://github.com/your-username)
-- Other contributors
+- [Fran](https://github.com/FrankPer-stack)
 
 ## License
 This project is licensed under the MIT License - see the `LICENSE` file for details.
